@@ -1,43 +1,34 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, It's [GadgetsMag!](https://gadgetsmag.co) 👋
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gadgetsmag/&title=Profile%20Views)
+![Most Active GitHub User Rank](https://enrq1ymdvo3fa8.m.pipedream.net)
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 
 
-<a href="https://codesandbox.io/u/mikeeowino">
-  <img align="left" alt="Mike Owino | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/mikeeowino">
-  <img align="left" alt="Mike Owino | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Mike's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
-- 🔭 Currently working on [GadgetsMag](https://github.com/gadgetsmag.github.io) <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
-- 🌱 I’m currently learning Javascript, CSS,  Python & Jekyll
-- 👯 I’m looking to collaborate on [GadgetsMag](https://github.com/gadgetsmag.github.io)
-- 💬 Ask me about anything [here](https://github.com/gadgetsmag/GadgetsMag/issues)
-<br>
-<br>
-<br>
 
-### Skills 👨‍💻
+<a href="https://mikeowino.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=mikeowino&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeowino&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
-<img align="left" alt="Dart" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dart.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
-<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
-<img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" />
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgetsmag&layout=compact&theme=highcontrast)](https://github.com/gadgetsmag/)
-![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=gadgetsmag&count_private=true&show_icons=true&theme=highcontrast)
-
+<a href="https://blockchair.com/ethereum/address/0x98b2e5c160a775e3d9e3b48626568b017b51f75b"><img align="left" alt="eth wallet" src="https://raw.githubusercontent.com/DGKSK8LIFE/DGKSK8LIFE/main/icons/ethereum.svg" width="40px"></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/shiba-inu-shib-logo.svg" width="40px" ></a>
+<a href="https://dogechain.info/address/D8tXE5wN9ntx6bL6kVMyCA344VodTYbvZm"><img align="left" alt="doge wallet" src="https://cryptologos.cc/logos/dogecoin-doge-logo.svg" width="40px" ></a>
+<a href="https://blockchair.com/bitcoin/address/bc1qqpuvsezs6ydquq93khyt5lk7l5g60csj5mwg72"><img align="left" alt="btc wallet" src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="40px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg" width="40px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/avalanche-avax-logo.svg" width="40px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/hex-hex-logo.svg" width="40px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/pancakeswap-cake-logo.svg" width="40px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.svg" width="40px" ></a>
+<a href="https://blockchair.com/stellar/account/GDWTIZCPTFVLGCEB3D57WGXTKOM6GSMOMVHXJ6PEZ3XUQOOG2B7MB6BU"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/stellar-xlm-logo.svg" width="40px" ></a>
+<a href="https://blockchair.com/ripple/account/rJnVrkJBA8pvfvSfFN6hV69YvRgD5Y5udv"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/xrp-xrp-logo.svg" width="40px" ></a>
+<a href="https://explorer.solana.com/address/4ZWwm6dLfZdZYeaN7qNkhu4RihkHex8w5pQ3x6DkHXry"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="40px" ></a>
+<a href="https://cardanoscan.io/address/DdzFFzCqrhtBQmfMDYBRJqNMmUaH27W8fz33ZAkgiWpxH5io6VTK14HbWFmWVobSvyWfhJLaAyGqQhcYjSmZcGcUfVBwmKD6ZuuwRx52"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/cardano-ada-logo.svg" width="40px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/1inch-1inch-logo.svg" width="40px" ></a>
